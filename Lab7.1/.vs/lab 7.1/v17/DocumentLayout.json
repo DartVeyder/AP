@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp EliteBook 840 G7\\source\\repos\\AP\\Lab7.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E335D26B-C165-4254-91BA-3668F955EA68}|lab 7.1.vcxproj|C:\\Users\\Hp EliteBook 840 G7\\source\\repos\\AP\\Lab7.1\\lab7.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E335D26B-C165-4254-91BA-3668F955EA68}|lab 7.1.vcxproj|solutionrelative:lab7.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAFCB80-299A-4399-AECE-E8FB1C1A64E4}|UnitTest7.1\\UnitTest7.1.vcxproj|C:\\Users\\Hp EliteBook 840 G7\\source\\repos\\AP\\Lab7.1\\UnitTest7.1\\UnitTest7.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FAFCB80-299A-4399-AECE-E8FB1C1A64E4}|UnitTest7.1\\UnitTest7.1.vcxproj|solutionrelative:UnitTest7.1\\UnitTest7.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest7.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp EliteBook 840 G7\\source\\repos\\AP\\Lab7.1\\UnitTest7.1\\UnitTest7.1.cpp",
+              "RelativeDocumentMoniker": "UnitTest7.1\\UnitTest7.1.cpp",
+              "ToolTip": "C:\\Users\\Hp EliteBook 840 G7\\source\\repos\\AP\\Lab7.1\\UnitTest7.1\\UnitTest7.1.cpp",
+              "RelativeToolTip": "UnitTest7.1\\UnitTest7.1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-17T17:50:33.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab7.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp EliteBook 840 G7\\source\\repos\\AP\\Lab7.1\\lab7.1.cpp",
+              "RelativeDocumentMoniker": "lab7.1.cpp",
+              "ToolTip": "C:\\Users\\Hp EliteBook 840 G7\\source\\repos\\AP\\Lab7.1\\lab7.1.cpp",
+              "RelativeToolTip": "lab7.1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-17T17:50:33.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
